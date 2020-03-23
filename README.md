@@ -1,2 +1,2 @@
 # Deep-Learning
-# Pytorch models for CNN, RNN, LSTM, GRU for OCR, face classification and verifcation ,speech recognition
+# Pytorch models using CNN, RNN, LSTM, GRU for audio to word recognition, face classification and verifcation ,speech translation
